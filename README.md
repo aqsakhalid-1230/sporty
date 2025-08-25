@@ -74,7 +74,7 @@ npm run build
 npm run preview
 ```
 Visit the printed URL (typically http://localhost:4173).
----
+
 
 ### Option B: Run with Docker
 
@@ -85,7 +85,7 @@ Visit the printed URL (typically http://localhost:4173).
 ```sh
 docker compose up --build
 ```
-Then open [http://localhost:5173](http://localhost:5174).
+Then open [http://localhost:5174](http://localhost:5174).
 
 ---
 
